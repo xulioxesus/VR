@@ -845,7 +845,7 @@ MonoBehaviour:
   - {fileID: 6522323893366649659, guid: 76f7c649c44f30e4da8f6b57d913b801, type: 3}
   - {fileID: 1180572486072699562, guid: 849f4d74cbac57f4fba1586860f28e61, type: 3}
   - {fileID: 787649354235745018, guid: 79d7663608bf6d64784701211a39afee, type: 3}
-  areaSize: {x: 20, y: 5, z: 10}
+  areaSize: {x: 10, y: 5, z: 5}
   amountToSpawn: 10
   slider: {fileID: 654054833}
 --- !u!4 &1178044775
